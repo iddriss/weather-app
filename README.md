@@ -8,11 +8,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 # Screenshot
 
-<img src="./src/screenshots/Screenshot_3_Weather.png" width="200">
+<img src="./src/screenshots/Screenshot_3_Weather.png" width="300">
 
-<img src="./src/screenshots/Screenshot_1_Weather.png" width="200">
+<img src="./src/screenshots/Screenshot_1_Weather.png" width="300">
 
-<img src="./src/screenshots/Screenshot_2_Weather.png" width="200">
+<img src="./src/screenshots/Screenshot_2_Weather.png">
 
 # Sample
 [Ashesi Weather](https://ashesi-weather.firebaseapp.com/)
