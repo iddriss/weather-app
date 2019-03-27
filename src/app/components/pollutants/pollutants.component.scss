@@ -1,0 +1,36 @@
+h3 {
+    padding: 0.5rem;
+}
+
+.pollutants {
+    display: flex;
+    flex-wrap: wrap;
+
+    .pollutant{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        width: 30%;
+        margin: 0.5rem 0.28rem;
+        padding: 0.4rem;
+       // box-shadow: 0 0 7px 1px #e1e1e1;
+       border: 0.1rem solid #d7d7d7;
+        border-radius: 0.5rem;
+        font-size: .8em;
+        flex: 1 0;
+        img {
+            height: 3rem;
+        }
+        .weather-info{
+            margin-top: 0.5rem;
+            .title{
+
+            }
+
+            .data {
+
+            }
+        }
+    }
+}

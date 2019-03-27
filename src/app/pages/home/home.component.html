@@ -1,0 +1,9 @@
+<div class="summary">
+      <app-summary [input]='summary'></app-summary>
+</div>
+<div class="single-condition">
+      <app-single [input]='weather | async'></app-single>
+</div>
+<div class="pollutants">
+      <app-pollutants [input]='pollutant | async'></app-pollutants>
+</div>

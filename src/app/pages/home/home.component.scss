@@ -1,0 +1,25 @@
+.summary {
+    margin-bottom: 2rem;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 5px 1px rgb(206, 202, 202);
+}
+
+.pollutants {
+    margin-bottom: 2rem;
+    background-color: #fff;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 5px 1px #cecaca;
+}
+.single-condition {
+    margin-bottom: 1rem;
+    
+    app-single {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+}

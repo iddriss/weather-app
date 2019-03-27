@@ -1,1 +1,37 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1rem;
+    font-family: roboto;
+}
+
+body {
+    height: 100%;
+    // background: linear-gradient(#eef2f5, #d878a4);
+    background-color: #eae9e9;
+}
+
+.weather-info {
+    //position: absolute;
+    bottom: 0;
+    color: #332e2e;
+    .title {
+        text-align: left;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+
+    .data {
+        text-align:center;
+        margin-top: 0.3rem;
+        span {
+            margin-left: 0.3rem;
+            font-weight: bold;
+            font-size: 0.9rem;
+            color: #c72222;
+        }
+
+    }
+}

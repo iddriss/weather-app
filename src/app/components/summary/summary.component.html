@@ -1,0 +1,10 @@
+<h3>Quick Overview</h3>
+<div class="summary-container">
+    <div *ngFor="let item of input" class="summary" [ngClass]="item.name">
+        <img [src]="'assets/svg/'+item.name+'.svg'" [alt]="item.name">
+        <div class="weather-info">
+            <p class="title"> {{item.name}} </p>
+            <p class="data"> {{item.data || 'no data'}}<span>{{item.unit || ''}}</span></p>
+        </div>
+    </div>
+</div>

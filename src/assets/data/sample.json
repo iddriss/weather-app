@@ -1,0 +1,124 @@
+[
+    {
+        "date": "today",
+        "time": "12:00",
+        "data": [
+            {
+                "name": "rainfall",
+                "data": "30",
+                "unit": ""
+            },
+            {
+                "name": "windspeed",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "wind-direction",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "humidity",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "temperature",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "UV",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "pollutant",
+                "data": [
+                    {
+                        "name": "CO2",
+                        "data": "",
+                        "unit": ""
+                    },
+                    {
+                        "name": "particulate",
+                        "data": "",
+                        "unit": ""
+                    },
+                    {
+                        "name": "ethanol",
+                        "data": "",
+                        "unit": ""
+                    },
+                    {
+                        "name": "benzene",
+                        "data": "",
+                        "unit": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2/10/3018",
+        "time": "1:00",
+        "data": [
+            {
+                "name": "rainfall",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "windspeed",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "wind-direction",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "humidity",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "temperature",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "UV",
+                "data": "",
+                "unit": ""
+            },
+            {
+                "name": "pollutant",
+                "data": [
+                    {
+                        "name": "CO2",
+                        "data": "",
+                        "unit": ""
+                    },
+                    {
+                        "name": "particulate",
+                        "data": "",
+                        "unit": ""
+                    },
+                    {
+                        "name": "ethanol",
+                        "data": "",
+                        "unit": ""
+                    },
+                    {
+                        "name": "benzene",
+                        "data": "",
+                        "unit": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
