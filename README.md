@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 # Screenshot
-![screenshot 1](./src/screenshots/Screenshot_3_Weather.png=100x)
+![screenshot 1](./src/screenshots/Screenshot_3_Weather.png=20x)
 ![screenshot 2](./src/screenshots/Screenshot_1_Weather.png)
 ![screenshot 3](./src/screenshots/Screenshot_2_Weather.png)
 
